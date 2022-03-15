@@ -1,3 +1,4 @@
+*This repo is moved from https://gitlab.com/alekseypopov10/*
 # 6. Derivatives solver
 
 The task is to write a program for diffirentiating function given with text format expression. This includes
@@ -7,4 +8,6 @@ The task is to write a program for diffirentiating function given with text form
 - print the resulting function
 - generating .tex file with "laboratory work about differentiating functions"
 
-example.tex and example.pdf are examples of program output.
+derivarive.tex and derivative.pdf are examples of program output.
+
+*This repo is moved
